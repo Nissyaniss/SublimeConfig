@@ -1,0 +1,8 @@
+// Terminal Settings - User
+{
+	"terminal": "alacritty",
+	"parameters": [
+		// "-e",
+		// "wsl" //For wsl
+	]
+}

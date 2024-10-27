@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoHotkey",
+		"CSSLint",
+		"Dracula Color Scheme",
+		"EJS",
+		"LiveReload",
+		"LSP",
+		"LSP-css",
+		"LSP-html",
+		"LSP-json",
+		"LSP-pylsp",
+		"LSP-ruff",
+		"LSP-rust-analyzer",
+		"LSP-typescript",
+		"MarkdownPreview",
+		"MypyReveal",
+		"Package Control",
+		"PowerShell",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-html-tidy",
+		"Terminal",
+		"TOML",
+	],
+}

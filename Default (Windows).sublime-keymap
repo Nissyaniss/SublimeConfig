@@ -1,0 +1,32 @@
+[
+	{
+		"keys": [
+			"ctrl+shift+t"
+		],
+		"command": "open_terminal_project_folder"
+	},
+	{
+		"keys": [
+			"ctrl+."
+		],
+		"command": "lsp_code_actions",
+		"context": [
+			{
+				"key": "lsp.session_with_capability",
+				"operand": "codeActionProvider"
+			}
+		]
+	},
+	{
+		"keys": [
+			"f2"
+		],
+		"command": "lsp_symbol_rename",
+		"context": [
+			{
+				"key": "lsp.session_with_capability",
+				"operand": "renameProvider"
+			}
+		]
+	},
+]

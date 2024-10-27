@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"ignored_packages": [
+		"Vintage",
+	],
+	"index_files": true,
+	"font_face": "Fira Code Regular",
+	"font_size": 14,
+}
